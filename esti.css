@@ -1,0 +1,117 @@
+.papa{
+position: absolute;
+top: 40px;
+left: 140px;
+width: 1090px;
+height: 550px;
+background: yellow;
+border:solid 1px black;
+}
+.hijo1{
+position: absolute;
+top: 30px;
+left:180px;
+width: 700px;
+height: 50px;
+background: blue;
+border:solid 1px black;
+}
+.hijo2{
+position: absolute;
+top: 160px;
+left:80px;
+width: 400px;
+height: 350px;
+background: blue;
+border:solid 1px black;
+}
+.hijo3{
+position: absolute;
+top: 160px;
+left:600px;
+width: 400px;
+height: 350px;
+background: blue;
+border:solid 1px black;	
+}
+.texto{
+position: absolute;
+top: 10px;
+left: 260px;
+text-align: center;
+align-content: center;
+color: black;
+font-size: 30px;
+}
+.cuadro{
+position: absolute;
+top: 25px;
+left:50px;
+width: 300px;
+height: 40px;
+background: yellow;
+border:solid 1px black;
+}
+.texto2{
+position: absolute;
+top: 25px;
+left: 170px;
+text-align: center;
+align-content: center;
+color: black;
+font-size: 30px;
+}
+.cuadro1{
+position: absolute;
+top: 95px;
+left:45px;
+width: 320px;
+height: 95px;
+background: yellow;
+border:solid 1px black;
+}
+.texto3{
+position: absolute;
+top: 125px;
+left: 10px;
+text-align: center;
+align-content: center;
+color: black;
+font-size: 19px;
+}
+.foto1{
+position: absolute;
+top: 200px;
+left: 60px;
+width: 270px;
+height: 140px;
+background: url("koala.jpg");
+background-size: cover;
+}
+.cuadro2{
+position: absolute;
+top: 200px;
+left:640px;
+width: 320px;
+height: 95px;
+background: yellow;
+border:solid 1px black;
+}
+.texto4{
+position: absolute;
+top: 220px;
+left: 680px;
+text-align: center;
+align-content: center;
+color: black;
+font-size: 19px;
+}
+.foto2{
+position: absolute;
+top: 305px;
+left: 625px;
+width: 350px;
+height: 200px;
+background: url("animales.png");
+background-size: cover;
+}

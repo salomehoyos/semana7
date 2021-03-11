@@ -1,0 +1,47 @@
+.texto{
+	position: absolute;
+	top: 80px;
+	left: 150px;
+}
+.ricardo{
+position: absolute;
+top: 10px
+left:250px;
+height: 250px;
+width: 600px;
+background: red;
+color: white;
+font-size: 50px;
+text-align: center;
+align-content: center;
+border: solid 5px black;
+
+}
+.julio{
+position: absolute;
+top: 280px
+left:250px;
+height: 250px;
+width: 600px;
+background: blue;
+color: white;
+font-size: 50px;
+text-align: center;
+align-content: center;
+border: solid 5px black;
+
+}
+.pablo{
+position: absolute;
+top: 550px
+left:250px;
+height: 250px;
+width: 600px;
+background: green;
+color: white;
+font-size: 50px;
+text-align: center;
+align-content: center;
+border: solid 5px black;
+
+}
